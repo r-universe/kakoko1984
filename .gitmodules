@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eNchange"]
 	path = eNchange
 	url = https://github.com/cran/eNchange
-	shallow = true
-	registered = true
 [submodule "segMGarch"]
 	path = segMGarch
 	url = https://github.com/cran/segMGarch
-	shallow = true
-	registered = true
 [submodule "wbsts"]
 	path = wbsts
 	url = https://github.com/cran/wbsts
-	shallow = true
-	registered = true
